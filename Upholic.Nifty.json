@@ -3429,4 +3429,40 @@
   "Close": 25103.2,
   "Shares Traded": 279219989,
   "Turnover": 25606.21
+},
+{
+  "_id": {
+    "$oid": "68491292bec1b9c1820ff5a0"
+  },
+  "Date": "10-JUN-2025",
+  "Open": 25196.05,
+  "High": 25199.3,
+  "Low": 25055.45,
+  "Close": 25104.25,
+  "Shares Traded": 307323471,
+  "Turnover": 28813.93
+},
+{
+  "_id": {
+    "$oid": "684a60e844b9c3eb576c2b01"
+  },
+  "Date": "11-JUN-2025",
+  "Open": 25134.15,
+  "High": 25222.4,
+  "Low": 25081.3,
+  "Close": 25141.4,
+  "Shares Traded": 301245273,
+  "Turnover": 25871.18
+},
+{
+  "_id": {
+    "$oid": "684baa617c441094ffa4dfee"
+  },
+  "Date": "12-JUN-2025",
+  "Open": 25164.45,
+  "High": 25196.2,
+  "Low": 24825.9,
+  "Close": 24888.2,
+  "Shares Traded": 328310748,
+  "Turnover": 29573.27
 }]
