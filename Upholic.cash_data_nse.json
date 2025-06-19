@@ -1177,4 +1177,84 @@
   "BUY VALUE": 11656.73,
   "SELL VALUE": 15488.15,
   "NET VALUE": -3831.42
+},
+{
+  "_id": {
+    "$oid": "68500e41a9445a9cea008dd0"
+  },
+  "CATEGORY": "DII **",
+  "DATE": "13-Jun-25",
+  "BUY VALUE": 13253.81,
+  "SELL VALUE": 10347.68,
+  "NET VALUE": 2906.13
+},
+{
+  "_id": {
+    "$oid": "68500e41a9445a9cea008dd1"
+  },
+  "CATEGORY": "FII/FPI *",
+  "DATE": "13-Jun-25",
+  "BUY VALUE": 13963.14,
+  "SELL VALUE": 15196.61,
+  "NET VALUE": -1233.47
+},
+{
+  "_id": {
+    "$oid": "68510607053e08a4751bbaf6"
+  },
+  "CATEGORY": "DII **",
+  "DATE": "16-Jun-25",
+  "BUY VALUE": 13763.97,
+  "SELL VALUE": 8156.33,
+  "NET VALUE": 5607.64
+},
+{
+  "_id": {
+    "$oid": "68510607053e08a4751bbaf7"
+  },
+  "CATEGORY": "FII/FPI *",
+  "DATE": "16-Jun-25",
+  "BUY VALUE": 9895.21,
+  "SELL VALUE": 12182.9,
+  "NET VALUE": -2287.69
+},
+{
+  "_id": {
+    "$oid": "6853fb615694495fbb6713df"
+  },
+  "CATEGORY": "DII **",
+  "DATE": "17-Jun-25",
+  "BUY VALUE": 19427.32,
+  "SELL VALUE": 11220.13,
+  "NET VALUE": 8207.19
+},
+{
+  "_id": {
+    "$oid": "6853fbae5694495fbb6713e0"
+  },
+  "CATEGORY": "FII/FPI *",
+  "DATE": "17-Jun-25",
+  "BUY VALUE": 13581.1,
+  "SELL VALUE": 12098.33,
+  "NET VALUE": 1482.77
+},
+{
+  "_id": {
+    "$oid": "6853fedc2a696071cb71b8bd"
+  },
+  "CATEGORY": "DII **",
+  "DATE": "18-Jun-25",
+  "BUY VALUE": 11093.15,
+  "SELL VALUE": 10140.34,
+  "NET VALUE": 952.81
+},
+{
+  "_id": {
+    "$oid": "6853fedc2a696071cb71b8be"
+  },
+  "CATEGORY": "FII/FPI *",
+  "DATE": "18-Jun-25",
+  "BUY VALUE": 12065.31,
+  "SELL VALUE": 11119.96,
+  "NET VALUE": 945.35
 }]

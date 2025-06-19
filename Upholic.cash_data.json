@@ -16233,4 +16233,52 @@
   "DII Gross Purchase": 21386.26,
   "DII Gross Sales": 11992.41,
   "DII Net Purchase/Sales": 9393.85
+},
+{
+  "_id": {
+    "$oid": "68500e41a9445a9cea008dd2"
+  },
+  "Date": "13-Jun-2025",
+  "FII Gross Purchase": 13963.14,
+  "FII Gross Sales": 15196.61,
+  "FII Net Purchase/Sales": -1233.47,
+  "DII Gross Purchase": 13253.81,
+  "DII Gross Sales": 10347.68,
+  "DII Net Purchase/Sales": 2906.13
+},
+{
+  "_id": {
+    "$oid": "68510607053e08a4751bbaf8"
+  },
+  "Date": "16-Jun-2025",
+  "FII Gross Purchase": 9895.21,
+  "FII Gross Sales": 12182.9,
+  "FII Net Purchase/Sales": -2287.69,
+  "DII Gross Purchase": 13763.97,
+  "DII Gross Sales": 8156.33,
+  "DII Net Purchase/Sales": 5607.64
+},
+{
+  "_id": {
+    "$oid": "6853fe495694495fbb6713e3"
+  },
+  "Date": "17-Jun-2025",
+  "FII Gross Purchase": 13581.1,
+  "FII Gross Sales": 12098.33,
+  "FII Net Purchase/Sales": 1482.77,
+  "DII Gross Purchase": 19427.32,
+  "DII Gross Sales": 11220.13,
+  "DII Net Purchase/Sales": 8207.19
+},
+{
+  "_id": {
+    "$oid": "6853fedc2a696071cb71b8bf"
+  },
+  "Date": "18-Jun-2025",
+  "FII Gross Purchase": 12065.31,
+  "FII Gross Sales": 11119.96,
+  "FII Net Purchase/Sales": 945.35,
+  "DII Gross Purchase": 11093.15,
+  "DII Gross Sales": 10140.34,
+  "DII Net Purchase/Sales": 952.81
 }]
