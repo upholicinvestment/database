@@ -17604,18 +17604,6 @@
 },
 {
   "_id": {
-    "$oid": "69286490f5ae39eda7bf02a8"
-  },
-  "Date": "26-Nov-2025",
-  "FII Gross Purchase": 16232.14,
-  "FII Gross Sales": 11454.11,
-  "FII Net Purchase/Sales": 4778.03,
-  "DII Gross Purchase": 16334.09,
-  "DII Gross Sales": 10086.16,
-  "DII Net Purchase/Sales": 6247.93
-},
-{
-  "_id": {
     "$oid": "6928663482b27a3822b10220"
   },
   "Date": "27-Nov-2025",
