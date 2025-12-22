@@ -3692,7 +3692,7 @@
   "_id": {
     "$oid": "693c380c87763d5b094d8ca3"
   },
-  "CATEGORY": "FII/FPI",
+  "CATEGORY": "FII/FPI *",
   "DATE": "12-Dec-25",
   "BUY VALUE": 10979.8,
   "SELL VALUE": 12094.02,
@@ -3712,7 +3712,7 @@
   "_id": {
     "$oid": "694034938e4160415ab94353"
   },
-  "CATEGORY": "FII/FPI",
+  "CATEGORY": "FII/FPI *",
   "DATE": "15-Dec-25",
   "BUY VALUE": 8609.68,
   "SELL VALUE": 10078,
@@ -3732,7 +3732,7 @@
   "_id": {
     "$oid": "6942e06ce0b10bf7b9b42258"
   },
-  "CATEGORY": "FII/FPI",
+  "CATEGORY": "FII/FPI *",
   "DATE": "16-Dec-25",
   "BUY VALUE": 10464.52,
   "SELL VALUE": 12846.44,
@@ -3752,7 +3752,7 @@
   "_id": {
     "$oid": "6942e0a1e0b10bf7b9b4225a"
   },
-  "CATEGORY": "FII/FPI",
+  "CATEGORY": "FII/FPI *",
   "DATE": "17-Dec-25",
   "BUY VALUE": 12801.81,
   "SELL VALUE": 11630.1,
@@ -3772,7 +3772,7 @@
   "_id": {
     "$oid": "69443039d81088fbbe7eef0a"
   },
-  "CATEGORY": "FII/FPI",
+  "CATEGORY": "FII/FPI *",
   "DATE": "18-Dec-25",
   "BUY VALUE": 11442.37,
   "SELL VALUE": 10846.59,
@@ -3792,7 +3792,7 @@
   "_id": {
     "$oid": "694581c3a281d618145d5836"
   },
-  "CATEGORY": "FII/FPI",
+  "CATEGORY": "FII/FPI *",
   "DATE": "19-Dec-25",
   "BUY VALUE": 27447.95,
   "SELL VALUE": 25617.06,
@@ -3812,7 +3812,7 @@
   "_id": {
     "$oid": "69496c5051972e29cf56620e"
   },
-  "CATEGORY": "FII/FPI",
+  "CATEGORY": "FII/FPI *",
   "DATE": "22-Dec-25",
   "BUY VALUE": 10713.52,
   "SELL VALUE": 11170.86,
