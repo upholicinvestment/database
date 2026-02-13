@@ -5495,4 +5495,16 @@
   "Close": 25807.2,
   "Shares Traded": 419388014,
   "Turnover": 38977.68
+},
+{
+  "_id": {
+    "$oid": "698f51f040ff75b9b68788a4"
+  },
+  "Date": "13-FEB-2026",
+  "Open": 25571.15,
+  "High": 25630.35,
+  "Low": 25444.3,
+  "Close": 25471.1,
+  "Shares Traded": 453523192,
+  "Turnover": 40137.15
 }]
