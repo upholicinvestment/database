@@ -18746,6 +18746,18 @@
   "_id": {
     "$oid": "69e8321f7aadef0bcba39a66"
   },
+  "Date": "20-Apr-2026",
+  "FII Gross Purchase": 12756.9,
+  "FII Gross Sales": 13816.8,
+  "FII Net Purchase/Sales": -1059.9,
+  "DII Gross Purchase": 18753.1,
+  "DII Gross Sales": 15786.2,
+  "DII Net Purchase/Sales": 2966.9
+},
+{
+  "_id": {
+    "$oid": "69e8e3a3eab126a1e2a7a0d9"
+  },
   "Date": "21-Apr-2026",
   "FII Gross Purchase": 13033.17,
   "FII Gross Sales": 14952.16,
@@ -18753,4 +18765,16 @@
   "DII Gross Purchase": 18366.67,
   "DII Gross Sales": 16145.4,
   "DII Net Purchase/Sales": 2221.27
+},
+{
+  "_id": {
+    "$oid": "69e8e630273128f7bb58ba7b"
+  },
+  "Date": "22-Apr-2026",
+  "FII Gross Purchase": 13895.07,
+  "FII Gross Sales": 15973.43,
+  "FII Net Purchase/Sales": -2078.36,
+  "DII Gross Purchase": 18704.25,
+  "DII Gross Sales": 19752.42,
+  "DII Net Purchase/Sales": -1048.17
 }]
