@@ -18933,4 +18933,16 @@
   "DII Gross Purchase": 20684.82,
   "DII Gross Sales": 12694.5,
   "DII Net Purchase/Sales": 7990.32
+},
+{
+  "_id": {
+    "$oid": "6a04c4be0d0375acbcc6a10c"
+  },
+  "Date": "13-May-2026",
+  "FII Gross Purchase": 14373.99,
+  "FII Gross Sales": 19077.14,
+  "FII Net Purchase/Sales": -4703.15,
+  "DII Gross Purchase": 18872.65,
+  "DII Gross Sales": 13003.6,
+  "DII Net Purchase/Sales": 5869.05
 }]
