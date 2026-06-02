@@ -6335,4 +6335,16 @@
   "Close": 23382.6,
   "Shares Traded": 421691204,
   "Turnover": 33843.74
+},
+{
+  "_id": {
+    "$oid": "6a1eec0e637446856ef88df3"
+  },
+  "Date": "02-JUN-2026",
+  "Open": 23229.15,
+  "High": 23556.95,
+  "Low": 23229.15,
+  "Close": 23483.55,
+  "Shares Traded": 511852817,
+  "Turnover": 43063.5
 }]
