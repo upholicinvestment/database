@@ -37483,5 +37483,110 @@
     "Option Stock Put Short": 2206779,
     "Total Long Contracts": 23424775,
     "Total Short Contracts": 23424775
+  },
+  {
+    "_id": {
+      "$oid": "6aa2bd7ab387aed4af5d6fe9"
+    },
+    "Date": "2026-09-10",
+    "Client Type": "Client",
+    "Future Index Long": 286829,
+    "Future Index Short": 55858,
+    "Future Stock Long": 3460539,
+    "Future Stock Short": 214728,
+    "Option Index Call Long": 3945571,
+    "Option Index Put Long": 2355516,
+    "Option Index Call Short": 3565411,
+    "Option Index Put Short": 3170018,
+    "Option Stock Call Long": 2667819,
+    "Option Stock Put Long": 810266,
+    "Option Stock Call Short": 1399887,
+    "Option Stock Put Short": 1218663,
+    "Total Long Contracts": 13526540,
+    "Total Short Contracts": 9624565
+  },
+  {
+    "_id": {
+      "$oid": "6aa2bd7ab387aed4af5d6fea"
+    },
+    "Date": "2026-09-10",
+    "Client Type": "DII",
+    "Future Index Long": 43284,
+    "Future Index Short": 28392,
+    "Future Stock Long": 354539,
+    "Future Stock Short": 4636004,
+    "Option Index Call Long": 5401,
+    "Option Index Put Long": 50538,
+    "Option Index Call Short": 3901,
+    "Option Index Put Short": 0,
+    "Option Stock Call Long": 4876,
+    "Option Stock Put Long": 44620,
+    "Option Stock Call Short": 376637,
+    "Option Stock Put Short": 20925,
+    "Total Long Contracts": 503258,
+    "Total Short Contracts": 5065859
+  },
+  {
+    "_id": {
+      "$oid": "6aa2bd7ab387aed4af5d6feb"
+    },
+    "Date": "2026-09-10",
+    "Client Type": "FII",
+    "Future Index Long": 39694,
+    "Future Index Short": 321538,
+    "Future Stock Long": 3455879,
+    "Future Stock Short": 2913959,
+    "Option Index Call Long": 628810,
+    "Option Index Put Long": 1124731,
+    "Option Index Call Short": 947681,
+    "Option Index Put Short": 461967,
+    "Option Stock Call Long": 169324,
+    "Option Stock Put Long": 348996,
+    "Option Stock Call Short": 388483,
+    "Option Stock Put Short": 168014,
+    "Total Long Contracts": 5767435,
+    "Total Short Contracts": 5201642
+  },
+  {
+    "_id": {
+      "$oid": "6aa2bd7ab387aed4af5d6fec"
+    },
+    "Date": "2026-09-10",
+    "Client Type": "Pro",
+    "Future Index Long": 66741,
+    "Future Index Short": 30760,
+    "Future Stock Long": 878487,
+    "Future Stock Short": 384753,
+    "Option Index Call Long": 1124666,
+    "Option Index Put Long": 917176,
+    "Option Index Call Short": 1187456,
+    "Option Index Put Short": 815976,
+    "Option Stock Call Long": 882860,
+    "Option Stock Put Long": 1042456,
+    "Option Stock Call Short": 1559872,
+    "Option Stock Put Short": 838736,
+    "Total Long Contracts": 4912387,
+    "Total Short Contracts": 4817553
+  },
+  {
+    "_id": {
+      "$oid": "6aa2bd7ab387aed4af5d6fed"
+    },
+    "Date": "2026-09-10",
+    "Client Type": "TOTAL",
+    "Future Index Long": 436548,
+    "Future Index Short": 436548,
+    "Future Stock Long": 8149444,
+    "Future Stock Short": 8149444,
+    "Option Index Call Long": 5704449,
+    "Option Index Put Long": 4447961,
+    "Option Index Call Short": 5704449,
+    "Option Index Put Short": 4447961,
+    "Option Stock Call Long": 3724879,
+    "Option Stock Put Long": 2246338,
+    "Option Stock Call Short": 3724879,
+    "Option Stock Put Short": 2246338,
+    "Total Long Contracts": 24709619,
+    "Total Short Contracts": 24709619
   }
 ]
