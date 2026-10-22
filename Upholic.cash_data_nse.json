@@ -7898,5 +7898,25 @@
     "BUY VALUE": 17003.9,
     "SELL VALUE": 15981.58,
     "NET VALUE": 1022.32
+  },
+  {
+    "_id": {
+      "$oid": "6ada3d48183c16ac731f1371"
+    },
+    "CATEGORY": "DII **",
+    "DATE": "22-Oct-26",
+    "BUY VALUE": 16242.83,
+    "SELL VALUE": 13351.51,
+    "NET VALUE": 2891.32
+  },
+  {
+    "_id": {
+      "$oid": "6ada3d48183c16ac731f1372"
+    },
+    "CATEGORY": "FII/FPI *",
+    "DATE": "22-Oct-26",
+    "BUY VALUE": 13627.54,
+    "SELL VALUE": 17086.24,
+    "NET VALUE": -3458.7
   }
 ]
