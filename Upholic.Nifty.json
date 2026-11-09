@@ -7656,5 +7656,29 @@
     "Close": 25030.35,
     "Shares Traded": 490973304,
     "Turnover": 49834.48
+  },
+  {
+    "_id": {
+      "$oid": "6af2019aed5d8b2e64e42df5"
+    },
+    "Date": "09-NOV-2026",
+    "Open": 25076.4,
+    "High": 25084.05,
+    "Low": 24838.75,
+    "Close": 25044.65,
+    "Shares Traded": 406189985,
+    "Turnover": 37153.19
+  },
+  {
+    "_id": {
+      "$oid": "6af2019aed5d8b2e64e42df6"
+    },
+    "Date": "08-NOV-2026",
+    "Open": 25070.45,
+    "High": 25131.85,
+    "Low": 24985.3,
+    "Close": 24986.4,
+    "Shares Traded": 68360599,
+    "Turnover": 4963.05
   }
 ]
